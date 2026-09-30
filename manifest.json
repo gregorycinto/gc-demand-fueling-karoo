@@ -2,15 +2,18 @@
   "label": "GC Demand & Fueling",
   "packageName": "br.com.gccyclingnutrition.carbdemand",
   "iconUrl": "https://raw.githubusercontent.com/gregorycinto/gc-demand-fueling-karoo/main/icone.png",
-  "latestApkUrl": "https://github.com/gregorycinto/gc-demand-fueling-karoo/releases/download/v0.2.7/GC-Demand-Fueling-Karoo-0.2.7.apk",
-  "latestVersion": "0.2.7",
-  "latestVersionCode": 12,
+  "latestApkUrl": "https://github.com/gregorycinto/gc-demand-fueling-karoo/releases/download/v0.2.8/GC-Demand-Fueling-Karoo-0.2.8.apk",
+  "latestVersion": "0.2.8",
+  "latestVersionCode": 13,
   "developer": "GC Cycling & Nutrition",
   "description": "A demanda de carboidrato da pedalada, ao vivo no guidao, estimada a partir da potencia e da curva pessoal do atleta (modelo funcional GC: LCF, Limiar de Carboidrato Funcional). Total acumulado, o FEC (Energia Funcional de Carboidratos) ao vivo, a taxa de agora e cada hora; a cada 5 min uma faixa sugerida de reposicao por hora, nunca acima da demanda, sem apito; acima do FTP, a reserva W'. Grava a demanda no arquivo FIT. Gratis por 7 dias a partir do primeiro pedal; depois, funciona com o codigo de liberacao de cada Karoo. Informativo: nao diagnostica, nao trata e nao substitui o acompanhamento profissional. --- Your ride's carbohydrate demand, live on the handlebar, estimated from power and your personal curve (the GC functional model: LCF, Functional Carbohydrate Threshold). Running total, live FEC (Functional Energy from Carbohydrate), the rate now and each hour; every 5 min a suggested fueling range per hour, never above the demand, no beeps; above FTP, your W' reserve. Writes the demand into the FIT file. Free for 7 days from the first ride; then it works with this Karoo's unlock code. Informational: it does not diagnose, treat or replace professional care.",
-  "releaseNotes": "0.2.7: same app, now with the code obfuscated in the package; nothing changes on screen. 0.2.6: the app is now called GC Demand & Fueling; nothing changes in the numbers. 0.2.5: the on-screen messages match the Garmin field word for word, and at 2 min the field says which FTP and weight it is working with. 0.2.4: the field now speaks, silently - every 5 min a carbohydrate range per hour, never above the demand; an alert over other pages; above FTP, the horizon line becomes the W' reserve. 0.2.3: the carbohydrate estimate is done twice by different paths and checked every second; the ride file records what the estimate saw; settings saved mid-ride apply on the next ride; leaner page.",
+  "releaseNotes": "0.2.8: an optional W' reserve graph, off by default - the last half hour of your W' reserve at the foot of the page, showing how much each attack spent and how much came back. 0.2.7: same app, now with the code obfuscated in the package; nothing changes on screen. 0.2.6: the app is now called GC Demand & Fueling; nothing changes in the numbers. 0.2.5: the on-screen messages match the Garmin field word for word, and at 2 min the field says which FTP and weight it is working with. 0.2.4: the field now speaks, silently - every 5 min a carbohydrate range per hour, never above the demand; an alert over other pages; above FTP, the horizon line becomes the W' reserve. 0.2.3: the carbohydrate estimate is done twice by different paths and checked every second; the ride file records what the estimate saw; settings saved mid-ride apply on the next ride; leaner page.",
   "screenshotUrls": [
     "https://raw.githubusercontent.com/gregorycinto/gc-demand-fueling-karoo/main/fotos/01-pagina-2h14-pedalando.png",
     "https://raw.githubusercontent.com/gregorycinto/gc-demand-fueling-karoo/main/fotos/13-mensagem-sugestao.png",
-    "https://raw.githubusercontent.com/gregorycinto/gc-demand-fueling-karoo/main/fotos/20-configuracao-inteira.png"
+    "https://raw.githubusercontent.com/gregorycinto/gc-demand-fueling-karoo/main/fotos/20-configuracao-inteira.png",
+    "https://raw.githubusercontent.com/gregorycinto/gc-demand-fueling-karoo/main/fotos/en-01-pagina-2h14-pedalando.png",
+    "https://raw.githubusercontent.com/gregorycinto/gc-demand-fueling-karoo/main/fotos/en-13-mensagem-sugestao.png",
+    "https://raw.githubusercontent.com/gregorycinto/gc-demand-fueling-karoo/main/fotos/en-20-configuracao-inteira.png"
   ]
 }
